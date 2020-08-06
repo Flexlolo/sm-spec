@@ -1,0 +1,23 @@
+# Ignore everything
+*
+
+# Git files
+!.gitignore
+!LICENCE
+!README.md
+
+# Project files
+!scripting
+!scripting/
+!scripting/**
+
+!configs
+!configs/
+!configs/**
+
+!translations
+!translations/
+!translations/**
+
+# Project build
+!dependencies.txt
